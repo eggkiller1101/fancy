@@ -1,1 +1,1 @@
-This is the side project of Eggkiller1101, Mwahahaha!​
+One day I'm gonna use my own terminal beautier tool, Mwahahaha!​
